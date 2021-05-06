@@ -10,7 +10,7 @@ We all know that the world is being subject to climate change. As a result, the 
 
 **Genesis of this sheet and Findings**
 
-We lived in a family of four. Mother, Daughter, Father and Grandfather. We had a Grandmother but she had less to neglible usage of anything. Since, I am well off as compared to the average Indian, our family footprint was 5 times the Indian Footprint of 1.4 Tons per person per year.
+We lived in a family of four. Mother, Daughter, Father and Grandfather. We had a Great-Grandmother but she had less to neglible usage of anything. Since, we are well off as compared to the average Indian, our family footprint was 5 times the average Indian Footprint of 1.4 Tons per person per year.
 
 **Missing Items**
 
@@ -22,4 +22,6 @@ This sheet was created in 2011. The  new items to be added to this sheet are
 * Smart Speakers
 * Fiber Optics and Wireless Local Area Network
 * 4G and 5G
+
+In 2011, I also discovered that 1 Google Employee can save the Carbon Footprint of 22 Americans. Further, Google mostly runs on Hydro-Electric Power. There was a search engine called Blackle, but todays smartphones have "Invert Colors" as a built in feature.
 
