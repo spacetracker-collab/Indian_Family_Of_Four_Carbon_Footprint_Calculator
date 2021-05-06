@@ -30,7 +30,7 @@ This sheet was created in 2011. The  new items to be added to this sheet are
 * Fiber Optics and Wireless Local Area Network
 * 4G and 5G
 
-We are also growing some Plants, that may offset some of the Carbon Prints
+We are also growing some Plants, that may offset some of the Carbon FootPrints
 
 **Miscellaneous Information**
 
