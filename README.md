@@ -23,5 +23,8 @@ This sheet was created in 2011. The  new items to be added to this sheet are
 * Fiber Optics and Wireless Local Area Network
 * 4G and 5G
 
+We are also growing some Plants, that may offset some of the Carbon Prints
+
+**Miscellaneous Information**
 In 2011, I also discovered that 1 Google Employee can save the Carbon Footprint of 22 Americans. Further, Google mostly runs on Hydro-Electric Power. There was a search engine called Blackle, but todays smartphones have "Invert Colors" as a built in feature.
 
